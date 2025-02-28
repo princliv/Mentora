@@ -1,4 +1,4 @@
-![Mentora Banner](src/assets/banner.jpg)
+![Mentora Banner](src/assets/banner.png)
 # MENTORA
 
 ## 🚀 AI-Driven Chatbot for Student Mental Health Support
