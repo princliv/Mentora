@@ -7,6 +7,20 @@ Mentora is an AI-powered chatbot designed to provide emotional support to studen
 
 ---
 
+## 📖 Table of Contents
+1. [Introduction](#-introduction)
+   - [Mental Health Challenges](#-mental-health-challenges)
+   - [Purpose of Mentora](#-purpose-of-mentora)
+   - [Integration](#-integration)
+2. [Key Features](#-key-features)
+3. [Technologies Used](#-technologies-used)
+4. [Installation & Setup](#-installation--setup)
+5. [Contributing](#-contributing)
+6. [License](#-license)
+7. [Contact](#-contact)
+
+---
+
 ## 📌 Introduction
 
 ### 🧠 Mental Health Challenges
