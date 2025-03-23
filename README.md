@@ -1,7 +1,8 @@
 # MENTORA
-![Mentora Banner](src/assets/banner.png)
 
 ## 🚀 AI-Driven Chatbot for Student Mental Health Support
+![Mentora Banner](src/assets/banner.png)
+
 
 Mentora is an AI-powered chatbot designed to provide emotional support to students facing mental health challenges. By leveraging advanced Natural Language Processing (NLP) capabilities, Mentora offers a safe, confidential, and stigma-free environment where students can express their concerns and access valuable mental health resources.
 
