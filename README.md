@@ -1,5 +1,5 @@
-![Mentora Banner](src/assets/banner.png)
 # MENTORA
+![Mentora Banner](src/assets/banner.png)
 
 ## 🚀 AI-Driven Chatbot for Student Mental Health Support
 
@@ -110,4 +110,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📩 Contact
 For any queries or collaborations, feel free to reach out!
 - 📧 Email: ankitkumar1990asap@gmail.com
-- 🌐 Website: [www.mentora.ai](https://ankit-kumar-portfolio-staging.b12sites.com/)
+- 🌐 Website: [mentora-lac.vercel.app](https://mentora-lac.vercel.app/)
